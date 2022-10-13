@@ -1,0 +1,2 @@
+vendedor.integer
+vendedor.vendedor
